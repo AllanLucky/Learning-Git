@@ -1,1 +1,5 @@
-console.lg ('Hello Jerald');
+console.lg ('Hello Jerald')
+
+
+
+hello java am allan
