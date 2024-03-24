@@ -7,4 +7,9 @@ console.log(z)
 <
   document.getElement('demo').innerHtml ("hello world");
 
+var t =10;
+var h =156;
+var r = t+h
+console.log(r);
+
 
